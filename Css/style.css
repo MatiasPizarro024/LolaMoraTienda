@@ -10,3 +10,8 @@
     grid-template-areas: "head" "catalogo" "piepag";
     grid-template: "head" 77px "catalogo" 500px "piepag" 100px;
 }
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    min-height: 100%;
+}
