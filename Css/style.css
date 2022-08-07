@@ -49,3 +49,8 @@ body {
     margin-bottom: auto;
     padding: 0px;
 }
+.piepag {
+    border: 2px solid black;
+    grid-area: piepag;
+    display: grid;
+}
