@@ -53,4 +53,5 @@ body {
     border: 2px solid black;
     grid-area: piepag;
     display: grid;
+    background-color:rgb(182, 137, 224);
 }
