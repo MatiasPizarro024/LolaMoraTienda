@@ -34,3 +34,14 @@ body {
     border: 2px solid black;
     margin: 10px;
 }
+.ropa{
+    border: 2px solid black;
+    background-color: rgb(162, 173, 160);
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    padding: 0px;
+}
