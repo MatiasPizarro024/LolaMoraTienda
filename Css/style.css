@@ -15,3 +15,10 @@ body {
     font-size: large;
     min-height: 100%;
 }
+.head {
+    grid-area: head;
+    background-color: rgb(219, 189, 247);
+    display: grid;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
