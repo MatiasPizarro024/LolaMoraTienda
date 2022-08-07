@@ -54,4 +54,6 @@ body {
     grid-area: piepag;
     display: grid;
     background-color:rgb(182, 137, 224);
+    grid-template-columns: auto auto;
+    margin: 10px;
 }
