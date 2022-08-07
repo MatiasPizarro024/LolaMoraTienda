@@ -34,6 +34,10 @@ body {
     border: 2px solid black;
     margin: 10px;
 }
+.cat{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
 .ropa{
     border: 2px solid black;
     background-color: rgb(162, 173, 160);
