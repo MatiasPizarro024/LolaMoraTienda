@@ -26,3 +26,11 @@ body {
     margin-bottom: 1%;
     border: 2px solid black;
 }
+.catalogo {
+    grid-area: catalogo;
+    background-color: rgb(139, 51, 190);
+    font-size: xx-large;
+    text-align: center;
+    border: 2px solid black;
+    margin: 10px;
+}
