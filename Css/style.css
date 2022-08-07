@@ -3,3 +3,10 @@
     margin: 0px;
     padding: 0px;
 }
+.parent {
+    background-color: blueviolet;
+    display: grid;
+    gap: 20px;
+    grid-template-areas: "head" "catalogo" "piepag";
+    grid-template: "head" 77px "catalogo" 500px "piepag" 100px;
+}
