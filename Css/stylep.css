@@ -3,7 +3,11 @@
     padding: 0px;
 }
 .parent{
-
+    background-color: blueviolet;
+    border: 1px solid black;
+    margin: 0px auto;
+    padding: 20px;
+    text-align: center;
 }
 .fila{
 
