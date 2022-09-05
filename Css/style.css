@@ -27,8 +27,8 @@ body {
     border: 2px solid black;
 }
 
-menu ul li{
-    
+.menu ul li{
+    float: left;
 }
 .catalogo {
     grid-area: catalogo;
