@@ -33,6 +33,7 @@ body {
     list-style: none;
     margin: 10px;
     font-size: small;
+    line-height: 30px;
 }
 .catalogo {
     grid-area: catalogo;
