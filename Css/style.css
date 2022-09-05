@@ -26,6 +26,10 @@ body {
     margin-bottom: 1%;
     border: 2px solid black;
 }
+
+menu ul li{
+    
+}
 .catalogo {
     grid-area: catalogo;
     background-color: rgb(139, 51, 190);
