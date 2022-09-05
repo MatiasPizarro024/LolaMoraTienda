@@ -28,8 +28,11 @@ body {
 }
 
 .menu ul li{
+    grid-area: auto;
     float: left;
     list-style: none;
+    margin: 10px;
+    font-size: small;
 }
 .catalogo {
     grid-area: catalogo;
