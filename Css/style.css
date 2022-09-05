@@ -29,6 +29,7 @@ body {
 
 .menu ul li{
     float: left;
+    list-style: none;
 }
 .catalogo {
     grid-area: catalogo;
