@@ -154,4 +154,5 @@ nav ul li ul li a {
 
 nav ul li ul li a:hover {
     background: rgb(34, 148, 255);
+    color: white;
 }
