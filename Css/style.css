@@ -61,7 +61,7 @@ nav>ul {
     display: flex;
 }
 
-nav>ul>li {
+nav ul li {
     height: 100%;
     list-style: none;
     position: relative;
@@ -145,7 +145,7 @@ nav ul li ul li a {
     display: block;
     color: rgb(0, 162, 255);
     padding: 6px;
-    margin-left: 14px;
+    padding-left: 14px;
     margin-top: 10px;
     font-size: 14px;
     text-transform: uppercase;
@@ -159,4 +159,13 @@ nav ul li ul li a:hover {
     padding-left: 20px;
     font-size: 14px;
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 5);
+}
+
+/*Responsive*/
+
+@media screen and (max-width: 720px){
+    .search input{
+        display: none;
+    }
+    
 }
