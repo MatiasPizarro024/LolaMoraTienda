@@ -5,3 +5,22 @@
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
 }
+
+header {
+    width: 100%;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    background: white;
+}
+
+
+/*Header Sup*/
+
+.headerSup {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
