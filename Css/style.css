@@ -1,6 +1,6 @@
 * {
-    margin: 0%;
-    padding: 0%;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
@@ -9,8 +9,8 @@
 header {
     width: 100%;
     position: fixed;
-    top: 0%;
-    left: 0%;
+    top: 0;
+    left: 0;
     background: white;
 }
 
@@ -23,9 +23,15 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 20px;
 }
 
 .logo img {
     width: 70px;
     height: 70px;
+}
+
+.search input {
+    width: 300px;
+    padding: 10px;
 }
