@@ -24,3 +24,8 @@ header {
     align-items: center;
     justify-content: space-between;
 }
+
+.logo img {
+    width: 70px;
+    height: 70px;
+}
