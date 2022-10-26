@@ -167,5 +167,11 @@ nav ul li ul li a:hover {
     .search input{
         display: none;
     }
-    
+    . .headerSup {
+        padding: 10px;
+    }
+    .logo {
+        width: 180px;
+    }
+
 }
