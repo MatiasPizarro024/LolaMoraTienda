@@ -45,3 +45,18 @@ header {
     background: rgb(155, 70, 172);
     padding: 0px 20px;
 }
+
+.menu {
+    max-width: 1200px;
+    margin: auto;
+    height: 100%;
+}
+
+nav {
+    height: 100%;
+}
+
+nav>ul {
+    height: 100%;
+    display: flex;
+}
