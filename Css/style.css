@@ -16,6 +16,7 @@ body {
     min-height: 100%;
 }
 .head {
+    display: grid;
     grid-area: head;
     background-color: rgb(219, 189, 247);
     display: grid;
@@ -25,9 +26,15 @@ body {
     margin: 10px;
     margin-bottom: 1%;
     border: 2px solid black;
+    text-align: left;
+}
+.titulo {
+    display: grid;
+    text-align: left;
 }
 
 .menu ul li{
+    display: grid;
     grid-area: auto;
     float: left;
     list-style: none;
