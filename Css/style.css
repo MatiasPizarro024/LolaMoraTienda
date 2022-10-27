@@ -39,4 +39,9 @@ img {
         border: 1px solid rgb(128, 64, 64);
         text-decoration: none;
     }
+    .main-header__input{
+        display: inline;
+        padding: 10px;
+    
+    }
     
