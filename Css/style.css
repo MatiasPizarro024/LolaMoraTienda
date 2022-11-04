@@ -8,6 +8,10 @@ img {
     display: block;
     width: 100%;
 }
+.main-header{
+    padding: 0 20 px;
+
+}
 .main-header__title {
     text-align: center;
     font-size: 2.5;
@@ -46,8 +50,5 @@ img {
         padding: 10px;
     
     }
-    .main-header__container {
-        padding: 0 20 px;
-
-    }
+    
     
