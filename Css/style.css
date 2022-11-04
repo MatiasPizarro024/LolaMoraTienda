@@ -68,7 +68,7 @@ img {
     }
     .slider, ul , li {
         position: absolute;
-        
+        left: center;
     }
     
     
