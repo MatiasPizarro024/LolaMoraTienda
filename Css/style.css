@@ -72,10 +72,14 @@ img {
         position: absolute;
         left: 0;
         top: 0;
-        opacity: 1;  
+        opacity: 1 ;  
         width: inherit;
         height: inherit;
         transition: opacity 4s;
+    }
+    ul.slider li img{
+        width: 100%;
+        height: 300%;
     }
 
     
