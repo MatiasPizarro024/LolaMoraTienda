@@ -49,5 +49,11 @@ img {
         display: inline;
         padding: 10px;
     }
+    .contenedor__slider{
+        margin: auto;
+        background-color: blanchedalmond;
+        width: 900px;
+        padding: 15px;
+    }
 
    
