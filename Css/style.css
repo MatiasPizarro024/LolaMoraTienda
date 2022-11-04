@@ -63,5 +63,10 @@ img {
         padding: 0;
         list-style:none;
     }
+    ul.slider{
+        position: relative;
+        width: 800px; 
+        height: 300px;
+    }
 
     
