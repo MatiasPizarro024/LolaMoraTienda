@@ -61,8 +61,14 @@ img {
         padding: 0;
         list-style:none;
     }
-    .ul.contenedor__slider{
+    .slider{
         position: relative;
+        width: 900px;
+        height: 300px;
+    }
+    .slider, ul , li {
+        position: absolute;
+        
     }
     
     
