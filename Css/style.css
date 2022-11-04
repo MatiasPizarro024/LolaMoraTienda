@@ -23,13 +23,15 @@ img {
         display: flex;
         justify-content: space-between;
         align-items: center;
+        
 
     }
     .menu_icons{
         font-size: 1.5em;
         border: 1px solid black;
         display: block;
-        padding: 5px 4px; 
+        padding: 5px 4px;
+        cursor: pointer; 
 
     }
     .main-header__boton {
@@ -43,5 +45,9 @@ img {
         display: inline;
         padding: 10px;
     
+    }
+    .main-header__container {
+        padding: 0 20 px;
+
     }
     
