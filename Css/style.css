@@ -48,27 +48,6 @@ img {
     .main-header__input{
         display: inline;
         padding: 10px;
-    
     }
-    .contenedor__slider{
-        margin: auto;
-        background-color: blanchedalmond;
-        width: 900px;
-        padding: 15px;
-    }
-    .ul, li{
-        margin:0;
-        padding: 0;
-        list-style:none;
-    }
-    .slider{
-        position: relative;
-        width: 900px;
-        height: 300px;
-    }
-    .slider, ul , li {
-        position: absolute;
-        left: center;
-    }
-    
-    
+
+   
