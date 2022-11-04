@@ -56,5 +56,8 @@ img {
         width: 900px;
         padding: 15px;
     }
+    .ul, li{
+        margin:0;
+    }
     
     
