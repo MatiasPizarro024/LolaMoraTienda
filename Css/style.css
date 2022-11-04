@@ -70,6 +70,12 @@ img {
     }
     ul.slider li {
         position: absolute;
+        left: 0;
+        top: 0;
+        opacity: 1;  
+        width: inherit;
+        height: inherit;
+        transition: opacity 4s;
     }
 
     
