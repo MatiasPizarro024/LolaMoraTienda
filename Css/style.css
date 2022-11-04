@@ -95,7 +95,7 @@ img {
 
      
     .opciones_de_slider{
-        text-align: center;
+        text-align: relative;
         margin: 20px;
     }
     .opciones_de_slider li {
