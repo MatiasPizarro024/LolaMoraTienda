@@ -51,7 +51,7 @@ img {
     }
     .contenedor__slider{
         margin: auto;
-        background-color: blanchedalmond;
+        background-color:none;
         width: 900px;
         padding: 15px;
     }
