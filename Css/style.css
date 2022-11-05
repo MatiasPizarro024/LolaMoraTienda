@@ -129,6 +129,7 @@ img {
     .catalogo {
         grid-area: catalogo;
         background-color: rgb(139, 51, 190);
+        font-size: xx-large;
     }
     
 
