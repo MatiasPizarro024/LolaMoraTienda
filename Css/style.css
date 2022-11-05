@@ -126,6 +126,9 @@ img {
         border-radius: 20%;
 
     }
+    .catalogo {
+        grid-area: catalogo;
+    }
     
 
     
