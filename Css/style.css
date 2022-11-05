@@ -139,7 +139,31 @@ img {
         width: 20px;
         height: 20px;
         position: absolute;
-        left: 15px;
+        left: 40px;
+        top: o;
     }
+    .blez {
+        width: 220px;
+        height: 20px;
+        position: absolute;
+        left: 200px;
+        top: 0;
+    }
+    .pant {
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        left: 260px;
+        top: 40px;
+    }
+    .acces {
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        left: 40px;
+        top: 40px;
+    }
+
+    
   
     
