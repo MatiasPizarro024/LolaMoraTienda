@@ -140,33 +140,33 @@ img {
         height: 20px;
         position: absolute;
         left: 40px;
-        top: o;
+        top: 0;
     }
     .blez {
         width: 220px;
         height: 20px;
         position: absolute;
-        left: 200px;
+        left: 250px;
         top: 0;
     }
     .pant {
         width: 20px;
         height: 20px;
         position: absolute;
-        left: 260px;
-        top: 40px;
+        left: 250px;
+        top: 400px;
     }
     .acces {
         width: 20px;
         height: 20px;
         position: absolute;
         left: 40px;
-        top: 40px;
+        top: 400px;
     }
     img{
         width: 200px;
     }
-    
+
 
     
   
