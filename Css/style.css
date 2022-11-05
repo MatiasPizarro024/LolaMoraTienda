@@ -11,6 +11,7 @@ img {
 }
 .fondo-inicio{
     background-image: url(../Imagenes/fondo\ pagina.jpg);
+    background-position: center;
 }
 .main-header{
     padding: 0 20 px;
