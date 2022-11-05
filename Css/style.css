@@ -59,10 +59,12 @@ img {
         padding: 10px;
     }
     .contenedor__slider{
+
         margin: auto;
         background-color:none;
         width: 900px;
         padding: 15px;
+       
     }
 
     .ul, li{
@@ -71,6 +73,7 @@ img {
         margin:0;
         padding: 0;
         list-style:none;
+        
     }
     ul.slider{
         position:relative;
