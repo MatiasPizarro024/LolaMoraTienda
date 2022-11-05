@@ -9,6 +9,9 @@ img {
     display: block;
     width: 100%;
 }
+.fondo-inicio{
+    background-image: url(../Imagenes/fondo\ pagina.jpg);
+}
 .main-header{
     padding: 0 20 px;
 
