@@ -215,4 +215,9 @@ body {
 .formInp {
     width: 100%;
     color: #706c6c;
+    font-size: 15px;
+    padding: 10px 48px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid black;
 }
