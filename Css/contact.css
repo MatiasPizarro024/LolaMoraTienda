@@ -162,30 +162,27 @@ nav ul li ul li a:hover {
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 5);
 }
 
-/*Body Fondo
+/*Body Fondo*/
 body {
-    background-color: #ead3ff;
-    opacity: 0.5;
-    background-image:  radial-gradient(#b05ef9 0.7000000000000001px, transparent 0.7000000000000001px), radial-gradient(#b05ef9 0.7000000000000001px, #ead3ff 0.7000000000000001px);
-    background-size: 28px 28px;
-    background-position: 0 0,14px 14px;
+    background-color: #f5c5ff;
+    background-image:  radial-gradient(#c964ef 0.75px, transparent 0.75px), radial-gradient(#c964ef 0.75px, #f5c5ff 0.75px);
+    background-size: 30px 30px;
+    background-position: 0 0,15px 15px;
     display: flex;
     min-height: 100vh;
 }
 /*---------------------------------------------------------------------------------------*/
 /*formulario*/
 
-.form {
+form {
     background-color: white;
-    margin: 0 auto 300px;
+    
     padding: 56px 32px;
-    border-radius: 10px;
-    top: 0px;
+    border-radius: 15px;
     width: 90%;
     max-width: 400px;
     box-shadow: 0 5px 10px -5px rgb(0 0 0 /40%);
     text-align: center;
-    display: relative;
 }
 
 /*Titulo formulario*/
@@ -202,7 +199,7 @@ body {
 /*Container formulario */
 
 .form_container {
-    margin-top: 48px;
+    margin: auto;
     display: grid;
     gap: 30px;
 }
@@ -210,8 +207,8 @@ body {
 /*Grupos formulario*/
 
 .formGrup {
-    position: relative;
     color: black ;
+    position: relative;
 }
 
 /*Input*/
