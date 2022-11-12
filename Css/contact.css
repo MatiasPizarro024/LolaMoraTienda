@@ -197,3 +197,8 @@ body {
 }
 
 /*Labels / Input */
+
+.form_container {
+    margin-top: 48px;
+    display: grid;
+}
