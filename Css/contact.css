@@ -177,10 +177,23 @@ body {
 .form {
     background-color: rgb(255, 255, 255);
     margin: auto;
-    padding: 3.5em 2em;
+    padding: 56px 32px;
     border-radius: 10px;
     width: 90%;
     max-width: 400px;
     box-shadow: 0 5px 10px -5px rgb(0 0 0 /40%);
     text-align: center;
 }
+
+/*Titulo formulario*/
+.formTit {
+    font-size: 30px;
+    margin-bottom: .80px;
+}
+
+/*Descripcion*/
+.formP {
+    font-weight: 300;
+}
+
+/*Labels / Input */
