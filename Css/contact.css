@@ -201,4 +201,5 @@ body {
 .form_container {
     margin-top: 48px;
     display: grid;
+    gap: 30px;
 }
