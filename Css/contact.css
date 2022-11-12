@@ -196,10 +196,23 @@ body {
     font-weight: 300;
 }
 
-/*Labels / Input */
+/*Container formulario */
 
 .form_container {
     margin-top: 48px;
     display: grid;
     gap: 30px;
+}
+
+/*Grupos formulario*/
+
+.formGrup {
+    position: relative;
+    color: black ;
+}
+
+/*Input*/
+.formInp {
+    width: 100%;
+    color: #706c6c;
 }
