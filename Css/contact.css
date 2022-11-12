@@ -165,9 +165,9 @@ nav ul li ul li a:hover {
 /*Body Fondo*/
 body {
     background-color: #f5c5ff;
-    background-image:  radial-gradient(#c964ef 0.75px, transparent 0.75px), radial-gradient(#c964ef 0.75px, #f5c5ff 0.75px);
-    background-size: 30px 30px;
-    background-position: 0 0,15px 15px;
+    background-image:  radial-gradient(#c964ef 0.65px, transparent 0.65px), radial-gradient(#c964ef 0.65px, #f5c5ff 0.65px);
+    background-size: 26px 26px;
+    background-position: 0 0,13px 13px;
     display: flex;
     min-height: 100vh;
 }
