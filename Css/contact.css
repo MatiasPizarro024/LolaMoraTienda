@@ -181,5 +181,5 @@ body {
     border-radius: 10px;
     width: 90%;
     max-width: 400px;
-    box-shadow: 0 5px 10px -5px rgb(0,0, 0);
+    box-shadow: 0 5px 10px -5px rgb(0 0 0 /40%);
 }
