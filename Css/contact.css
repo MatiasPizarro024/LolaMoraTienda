@@ -177,5 +177,8 @@ body {
 .form {
     background-color: white;
     margin: auto;
+    padding: 3.5em 2em;
     border-radius: 10px;
+    width: 90%;
+    max-width: 400px;
 }
