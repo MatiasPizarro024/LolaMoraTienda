@@ -221,3 +221,11 @@ body {
     outline: none;
     border-bottom: 2px solid black;
 }
+/*TextArea*/
+.formAre{
+    border-color: 2px solid black;
+}
+/*Label*/
+.formLab {
+    
+}
