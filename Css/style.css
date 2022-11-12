@@ -34,6 +34,7 @@ header {
 .search input {
     width: 300px;
     padding: 10px;
+    display: flex;
 }
 
 

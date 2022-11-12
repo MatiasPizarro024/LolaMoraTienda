@@ -12,6 +12,7 @@ header {
     left: 0;
     background: white;
     position: absolute;
+    display: block;
 }
 
 
@@ -176,7 +177,7 @@ body {
 
 .form {
     background-color: white;
-    margin-top: 200px;
+    margin: 0 auto 300px;
     padding: 56px 32px;
     border-radius: 10px;
     top: 0px;
@@ -184,6 +185,7 @@ body {
     max-width: 400px;
     box-shadow: 0 5px 10px -5px rgb(0 0 0 /40%);
     text-align: center;
+    display: relative;
 }
 
 /*Titulo formulario*/
@@ -230,5 +232,15 @@ body {
 .formLab {
     color: black;
     cursor: pointer;
+    position: absolute;
+    top: 0%;
+    left: 5px;
     transform: translateY(10px);
+    transition: transform .5s, color .3s;
+}
+
+/*Movimiento label*/
+
+.formInp:focus+.formLab{
+    transform: translateY(-12px) scale(.7);
 }
