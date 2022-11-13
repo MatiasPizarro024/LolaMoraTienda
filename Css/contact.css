@@ -270,6 +270,14 @@ form {
     font-size: 15px;
 }
 
+/*Responsive formulario*/
+
+@media (max-width:425px) {
+    .formTit {
+        font-size: 1.8rem;
+    }
+}
+
 /*animacion*/
 
 #anim {
