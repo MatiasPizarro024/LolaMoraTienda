@@ -43,7 +43,7 @@
         </div>
         
     </header> 
-    <form action=" " class="formu">
+    <form  class="formu">
         
         <h2 class="formTit">Dejanos tu consulta</h2>
         <p class="formP">¿Tiene alguna duda? Dejala a continuacion y nos pondremos en contacto</p>
@@ -65,9 +65,7 @@
                 <label for="motivo" class="formLab">Ingrese el motivo de su consulta:</label><br><br>
                 <textarea name="text" id="motivo" cols="45" rows="10" class="formAre" required></textarea>
             </div>
-            <label for="texto">Texto:</label>
-            <input id="texto" type="text" size="40/">
-            <input type="submit" class="formSub" value="Enviar" onclick="addElemento(getElementById('texto').value);">
+            <input type="button" class="formSub" value="Enviar" onclick="addElemento(getElementById('nombre').value);">
         </div>
     </form>
     <div id="formfin"></div>
