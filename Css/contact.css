@@ -255,4 +255,6 @@ form {
     align-items: center;
     background-color: white;
     border-radius: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
 }
