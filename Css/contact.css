@@ -270,25 +270,20 @@ form {
     font-size: 15px;
 }
 
-/*Responsive formulario*/
-
-@media (max-width:425px) {
-    .formTit {
-        font-size: 1.8rem;
-    }
-}
-
 /*animacion*/
 
-#anim {
+body {
+    animation-name: movhtml;
     animation-duration: 5s;
-    animation-name: htmlmov;
-
+    position: relative;
 }
 
-@keyframes htmlmov {
-    0% {}
-    50% {}
-    100% {}
-
+@keyframes movhtml {
+    0%   {top: 0px;}
+    25%  {top: 200px;}
+    50%  {top: 100px;}
+    75%  {top: 200px;}
+    100% {top: 0px;}
 }
+
+
