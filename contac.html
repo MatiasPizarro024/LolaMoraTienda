@@ -49,24 +49,25 @@
 
         <div class="form_container">
             <div class="formGrup">
-                <input type="text" id="nombre" class="formInp" placeholder=" ">
+                <input type="text" id="nombre" class="formInp" placeholder=" " required>
                 <label for="nombre" class="formLab">Nombre:</label>
             </div>
             <div class="formGrup">
-                <input type="text" id="apellido" class="formInp" placeholder=" ">
+                <input type="text" id="apellido" class="formInp" placeholder=" " required>
                 <label for="apellido" class="formLab">Apellido:</label>
             </div>
             <div class="formGrup">
-                <input type="text" id="email" class="formInp" placeholder=" ">
+                <input type="text" id="email" class="formInp" placeholder=" " required>
                 <label for="email" class="formLab">Email:</label>
             </div>
             <div class="formGrup">
                 <label for="motivo" class="formLab">Ingrese el motivo de su consulta:</label><br><br>
-                <textarea name="text" id="motivo" cols="45" rows="10" class="formAre"></textarea>
+                <textarea name="text" id="motivo" cols="45" rows="10" class="formAre" required></textarea>
             </div>
 
             <input type="submit" class="formSub" value="Enviar" onclick="addElemento(getElementById('texto').value);">
         </div>
     </form>
+    <div id="formFin"></div>
 </body>
 </html>
