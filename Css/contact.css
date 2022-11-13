@@ -243,3 +243,10 @@ form {
 .formInp:focus+.formLab{
     transform: translateY(-12px) scale(.7);
 }
+
+/*Div FormFin*/
+
+#formfin {
+    position: relative;
+    margin: auto;
+}
