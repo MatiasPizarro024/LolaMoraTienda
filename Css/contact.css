@@ -272,7 +272,7 @@ form {
 
 /*animacion*/
 
-body {
+body :active {
     animation-name: movhtml;
     animation-duration: 5s;
     position: relative;
