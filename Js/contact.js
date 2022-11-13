@@ -6,4 +6,5 @@ function addElemento(nombre){
   var cont = document.createTextNode("¡Su consulta fue recibida!")
   h1.innerHTML = nombre;
   formfin.appendChild(h1);
+  formfin.appendChild(cont);
 }
