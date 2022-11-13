@@ -128,46 +128,22 @@ ul.slider li:target {
 }
 
 .catalogo {
-    grid-area: catalogo;
-    background-color: rgb(139, 51, 190);
-    font-size: xx-large;
-    text-align: center;
-    margin: 16px;
-    position: relative;
+    width: 100%;
+    max-width: 1200px;
+    height: 430px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
 }
 
 .reme {
-    width: 20px;
-    height: 20px;
-    position: absolute;
-    left: 40px;
-    top: 0;
-}
-
-.blez {
-    width: 220px;
-    height: 20px;
-    position: absolute;
-    left: 250px;
-    top: 0;
-}
-
-.pant {
-    width: 20px;
-    height: 20px;
-    position: absolute;
-    left: 250px;
-    top: 400px;
-}
-
-.acces {
-    width: 20px;
-    height: 20px;
-    position: absolute;
-    left: 40px;
-    top: 400px;
-}
-
-img {
-    width: 200px;
+    width: 320px;
+    height: 430px;
+    border-radius: 8px;
+    box-shadow: o 2px 2 px rgb(0, 0, 0, 0.2);
+    overflow: hidden;
+    margin: 20px;
+    text-align: center;
+    transition: all 0.25s;
 }
