@@ -249,7 +249,8 @@ form {
 #formfin {
     position: relative;
     margin: auto;
-    max-height: 70px;
+    padding: 10px;
+    max-height: 100px;
     display: flex;
     align-items: center;
     background-color: white;
