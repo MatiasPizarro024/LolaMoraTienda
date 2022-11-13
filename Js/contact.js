@@ -1,8 +1,8 @@
-var formFin = document.getElementById("formFin");
+var formfin = document.getElementById("formfin");
 
 function addElemento(texto){
-  var formFin = document.getElementById("formFin");
+  var formfin = document.getElementById("formfin");
   var h1 = document.createElement("h1");
   h1.innerHTML = texto;
-  formFin.appendChild(h1);
+  formfin.appendChild(h1);
 }
