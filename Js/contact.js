@@ -18,10 +18,10 @@ function stop(){
 }
 
 /*Funcion onclick etiqueta nueva*/
-boton.classList.add('active')
 function mb () {
-  boton.classList.remove('active')
+    boton.classList.add('bd')
 }
+
 var formfin = document.getElementById("formfin");
 function addElemento(nombre){
   var formfin = document.getElementById("formfin");
@@ -30,5 +30,5 @@ function addElemento(nombre){
   h1.innerHTML = nombre;
   formfin.appendChild(h1);
   formfin.appendChild(cont);
-  mb ();
+  boton.onclick= mb ();
 }

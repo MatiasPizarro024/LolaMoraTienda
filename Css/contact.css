@@ -273,18 +273,19 @@ form {
 
 /*animacion body*/
 
-.active {
+.bd {
     animation-name: movhtml;
     animation-duration: 5s;
     position: relative;
 }
 
 @keyframes movhtml{
-    0%   {top: 0px;}
-    25%  {top: 200px;}
-    50%  {top: 100px;}
-    75%  {top: 200px;}
-    100% {top: 0px;}
+    from {
+        transform:  translateY(-40%);
+    }to 
+    {
+        transform: translateY(40%); 
+    }
 }
 /*animacion boton*/
 .boton-ani{
