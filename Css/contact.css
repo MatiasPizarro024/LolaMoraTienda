@@ -240,8 +240,9 @@ form {
 
 /*Movimiento label*/
 
-.formInp:focus+.formLab{
+.formInp:focus + .formLab, .formInp:not(:placeholder-shown) + .formLab {
     transform: translateY(-12px) scale(.7);
+    color: black;
 }
 
 /*Boton*/
@@ -271,8 +272,8 @@ form {
 }
 
 /*animacion*/
-
-body :active {
+/*
+body {
     animation-name: movhtml;
     animation-duration: 5s;
     position: relative;
