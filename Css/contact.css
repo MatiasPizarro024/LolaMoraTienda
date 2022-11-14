@@ -271,9 +271,9 @@ form {
     font-size: 15px;
 }
 
-/*animacion*/
-/*
-body {
+/*animacion body*/
+
+.active {
     animation-name: movhtml;
     animation-duration: 5s;
     position: relative;
@@ -286,5 +286,20 @@ body {
     75%  {top: 200px;}
     100% {top: 0px;}
 }
+/*animacion boton
+.boton-ani {
+    animation-name: movBoton;
+    animation-duration: 800ms;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
 
+@keyframes movBoton {
+    from {
+        transform:  translateY(-40%) translate(-20%);
+    } to {
+        transform: translateY(40%) translate(20%); 
+    }
+}
+*/
 
