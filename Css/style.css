@@ -13,8 +13,7 @@
   }
 
   .galeria{
-    padding: 10px;
-    align-items: center;
+    margin: 10px;
   }
 
   .galeria img:hover{
@@ -22,52 +21,7 @@
     transform: scale(1.03);
   }
   
-  /*@media (min-width: 1270px){
-    .galeria{
-      padding: 0px 15px;
-    }
-    .imagenes{
-      width: 100%;
-    }
-    .imagenes img{
-      cursor: pointer;
-      margin: 5px;
-      width:228px;
-      height:200px;
-    }
   
-  }
-  @media (max-width: 930px){
-    .galeria{
-      padding: 0px 15px;
-    }
-    .imagenes{
-      width: 100%;
-    }
-    .imagenes img{
-      cursor: pointer;
-      margin: 5px;
-      width:238px;
-      height:200px;
-    }
-  }
-  @media (max-width: 620px){
-    .galeria{
-      padding: 0px 10px;
-    }
-    .imagenes{
-      width: 100%;
-    }
-    .imagenes img{
-      cursor: pointer;
-      margin: 5px;
-      width:200px;
-      height:180px;
-    }
-    
-    
-  }
-  */
   body{
     display: flex;
     min-height: 100vh;
