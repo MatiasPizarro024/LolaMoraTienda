@@ -271,7 +271,7 @@ form {
     font-size: 15px;
 }
 
-/*animacion body
+/*animacion body*/
 
 .active {
     animation-name: movhtml;
@@ -279,7 +279,7 @@ form {
     position: relative;
 }
 
-@keyframes movhtml {
+@keyframes movhtml{
     0%   {top: 0px;}
     25%  {top: 200px;}
     50%  {top: 100px;}

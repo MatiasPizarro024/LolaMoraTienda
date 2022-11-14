@@ -17,9 +17,12 @@ function stop(){
     }
 }
 
-/*Funcion onclick etiqueta nueva
+/*Funcion onclick etiqueta nueva*/
+boton.classList.add('active')
+function mb () {
+  boton.classList.remove('active')
+}
 var formfin = document.getElementById("formfin");
-var boton = document.getElementById("boto");
 function addElemento(nombre){
   var formfin = document.getElementById("formfin");
   var h1 = document.createElement("h1");
@@ -27,4 +30,5 @@ function addElemento(nombre){
   h1.innerHTML = nombre;
   formfin.appendChild(h1);
   formfin.appendChild(cont);
-}*/
+  mb ();
+}
