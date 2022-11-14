@@ -277,6 +277,7 @@ form {
     animation-name: movhtml;
     animation-duration: 5s;
     position: relative;
+    animation-delay: 2s;
 }
 
 @keyframes movhtml{
