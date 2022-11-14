@@ -17,11 +17,12 @@ body{
     background-size: 26px 26px;
     background-position: 0 0,13px 13px;
 }
-.galeria h1{
-
+.h1{
+    color: black;
+    z-index: 1000;
     font-size: 19px;
     line-height: 55px;
-    margin: 0px 0px 0px 0px;
+    margin: 0px 110px 0px 5px;
 }
 
 
