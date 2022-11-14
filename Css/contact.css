@@ -271,7 +271,7 @@ form {
     font-size: 15px;
 }
 
-/*animacion body*/
+/*animacion body
 
 .active {
     animation-name: movhtml;
@@ -286,20 +286,20 @@ form {
     75%  {top: 200px;}
     100% {top: 0px;}
 }
-/*animacion boton
-.boton-ani {
+/*animacion boton*/
+.boton-ani{
     animation-name: movBoton;
-    animation-duration: 800ms;
+    animation-duration: 1s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
 }
 
-@keyframes movBoton {
+@keyframes movBoton{
     from {
         transform:  translateY(-40%) translate(-20%);
-    } to {
+    }to 
+    {
         transform: translateY(40%) translate(20%); 
     }
 }
-*/
 

@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lola Mora</title>
     <link rel="stylesheet" href="Css/contact.css">
-    <script src="Js/contact.js"></script>
 </head>
 <body class="active">
     <header>
@@ -50,23 +49,25 @@
 
         <div class="form_container">
             <div class="formGrup">
-                <input type="text" id="nombre" class="formInp" placeholder=" " required>
+                <input type="text" id="nombre" class="formInp" placeholder=" " required="">
                 <label for="nombre" class="formLab">Nombre:</label>
             </div>
             <div class="formGrup">
-                <input type="text" id="apellido" class="formInp" placeholder=" " required>
+                <input type="text" id="apellido" class="formInp" placeholder=" " required="">
                 <label for="apellido" class="formLab">Apellido:</label>
             </div>
             <div class="formGrup">
-                <input type="text" id="email" class="formInp" placeholder=" " required>
+                <input type="text" id="email" class="formInp" placeholder=" " required="">
                 <label for="email" class="formLab">Email:</label>
             </div>
             <div class="formGrup">
                 <textarea name="text" id="motivo" cols="45" rows="10" class="formAre" required placeholder="Ingrese el motivo de su consulta:" required></textarea>
             </div>
-            <input type="button" class="formSub boton-ani" id="boto" value="Enviar" onclick="addElemento(getElementById('nombre').value);">
+            <!-- onclick="addElemento(getElementById('nombre').value);-->
+            <input type="submit" value="Enviar" id="boton" class="formSub boton-ani">
         </div>
     </form>
     <div id="formfin"></div>
+    <script src="Js/contact.js"></script>
 </body>
 </html>
