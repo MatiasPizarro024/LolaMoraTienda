@@ -63,6 +63,7 @@ img {
     padding: 10px;
 }
 
+/*slider*/
 .contenedor__slider {
     margin: auto;
     background-color: none;
@@ -131,6 +132,10 @@ ul.slider li:target {
     border-radius: 20%;
 }
 
+
+ 
+
+/*catalogo*/
 .catalogo {
     width: 100%;
     max-width: 1200px;
@@ -149,7 +154,7 @@ ul.slider li:target {
     overflow: hidden;
     margin: 20px;
     text-align: center;
-    transition: all 0.25s;
+    transition: all 0.25s;  
 }
 
 .catalogo .reme:hover {
@@ -160,4 +165,16 @@ ul.slider li:target {
 .catalogo .reme img {
     width: 400px;
     height: 300px;
+}
+/*pie de pagina*/
+footer{
+    max-width: 1000px;
+    background: #000;
+    margin: 0 auto;
+    border-radius: 0 0 20px 20px;
+    color: #fff;
+    text-align: center;
+    padding: 30%;
+    box-sizing: border-box;
+
 }
