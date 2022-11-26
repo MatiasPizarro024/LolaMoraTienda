@@ -218,3 +218,7 @@ nav ul li ul li a:hover {
     display: flex;
     align-items: center;
 }
+
+#CheckboxMenu {
+    display: none;
+}
