@@ -1,7 +1,7 @@
 .containerGal{
     width: 100%;
     max-width: 1200px;
-    height: 430px;
+    height: 400px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -10,7 +10,7 @@
 
 .containerGal .img{
     width: 330px;
-    height: 430px;
+    height: 300px;
     border-radius: 8px;
     box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
     overflow: hidden;
