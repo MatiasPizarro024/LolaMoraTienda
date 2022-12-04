@@ -27,3 +27,9 @@
 .containerGal .img h4{
     font-weight: 600;
 }
+
+.containerGal .img p{
+    padding: 0 1rem;
+    font-size: 16px;
+    font-weight: 300;
+}
