@@ -202,7 +202,6 @@ nav ul li ul li a:hover {
         top: 158px;
         width: 100%;
         height: 0px;
-        transition: all 300ms ease;
         z-index: 100;
         opacity: 0;
         visibility: hidden;
@@ -224,7 +223,7 @@ nav ul li ul li a:hover {
         background-position: 20px;
     }
 
-    #seleted{
+    #selected{
         transform: scale(1);
     }
     
