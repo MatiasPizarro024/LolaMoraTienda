@@ -6,6 +6,7 @@
     flex-wrap: wrap;
     justify-content: center;
     margin: auto;
+    margin-top: 13%;
 }
 
 .containerGal .img{
@@ -46,6 +47,4 @@
 
 /*Responsive*/
 
-@media screen and (max-width: 720px){
-    
-}
+
