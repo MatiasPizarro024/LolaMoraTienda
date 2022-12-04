@@ -11,6 +11,7 @@
 .containerGal .img{
     width: 330px;
     height: 430px;
+    overflow: hidden;
     margin: 20px;
     text-align: center;
     transition: all 0.25s;
