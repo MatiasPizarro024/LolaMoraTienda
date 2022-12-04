@@ -7,3 +7,10 @@
     justify-content: center;
     margin: auto;
 }
+
+.containerGal .img{
+    width: 330px;
+    height: 430px;
+    margin: 20px;
+    text-align: center;
+}
