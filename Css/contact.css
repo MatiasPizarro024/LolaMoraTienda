@@ -397,6 +397,7 @@ form {
     #formfin{
         display: fixed;
         margin-top: 850px;
-        margin-left: 240px;
+        margin-left: 54px;
+        width: 80%;
     }
 }
