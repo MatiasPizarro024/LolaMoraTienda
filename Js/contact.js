@@ -2,14 +2,13 @@
 var input =document.getElementById('nombre')
 var input2 =document.getElementById('apellido')
 var input3 =document.getElementById('email')
+var input4 =document.getElementById('motivo')
 var boton =document.getElementById('boton')
 
-input.addEventListener('input', stop)
-input2.addEventListener('input', stop)
-input3.addEventListener('input', stop)
+input4.addEventListener('input', stop)
 
 function stop(){
-    if(input.lenght=1){
+    if(input4.lenght=1) {
         boton.classList.remove('boton-ani')
     }
     else{
