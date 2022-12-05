@@ -50,7 +50,9 @@ footer{
     @media (max-width: 720px){
         footer{
             height: 140px;
-            width: 483px;
+            width: 100%;
+            position: relative;
+            margin-top: 1000px;
         }
         .foter{
             text-align: left;
