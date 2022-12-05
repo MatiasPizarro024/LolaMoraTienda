@@ -277,7 +277,6 @@ form {
     animation-name: movhtml;
     animation-duration: 5s;
     position: relative;
-    animation-iteration-count: infinite;
     animation-direction: alternate;
 }
 
@@ -392,9 +391,11 @@ form {
 @media screen and (max-width: 720px){
     .formu{
         margin-left: 10%;
+        position: absolute;
     }
 
     #formfin{
-        margin-bottom: 20%;
+        display: fixed;
+        margin-bottom: 455px;
     }
 }
