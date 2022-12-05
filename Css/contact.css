@@ -277,6 +277,8 @@ form {
     animation-name: movhtml;
     animation-duration: 5s;
     position: relative;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
 }
 
 @keyframes movhtml{
@@ -290,7 +292,7 @@ form {
 /*animacion boton*/
 .boton-ani{
     animation-name: movBoton;
-    animation-duration: 1s;
+    animation-duration: 3s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
 }
@@ -392,9 +394,7 @@ form {
         margin-left: 10%;
     }
 
-    .formFin{
-        display: flex;
-        position: relative;
-        margin-bottom: 30%;
+    #formfin{
+        margin-bottom: 20%;
     }
 }
