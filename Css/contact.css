@@ -384,3 +384,17 @@ form {
         opacity: 1;
     }
 }
+
+/*Responsive Formulario*/
+
+@media screen and (max-width: 720px){
+    .formu{
+        margin-left: 10%;
+    }
+
+    .formFin{
+        display: flex;
+        position: relative;
+        margin-bottom: 30%;
+    }
+}
