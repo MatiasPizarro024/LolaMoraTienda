@@ -55,4 +55,5 @@ nav>ul>li:first-child>a {
     background-image: url(../Imagenes/263115-removebg-preview.png);
     background-size: 24px;
     background-repeat: no-repeat;
+    background-position: center center;
 }
