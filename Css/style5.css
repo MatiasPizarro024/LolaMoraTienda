@@ -4,6 +4,7 @@ h1{
     margin-top: 320px;
     display: flex;
     position: absolute;
+    width: 70%;
   }
   footer{
     height: 150px;
