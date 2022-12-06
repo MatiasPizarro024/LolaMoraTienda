@@ -70,5 +70,6 @@ footer{
             padding: 10px;
         }
         .foter .row ul li{
+            display: block;
         }
     }
