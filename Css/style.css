@@ -13,4 +13,5 @@ header {
     background: white;   
 }
 .headerSup {
+    max-width: 1200px;
 }
