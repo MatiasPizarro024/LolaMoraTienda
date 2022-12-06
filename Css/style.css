@@ -147,3 +147,6 @@ nav ul li ul li a:hover {
 .gallery-container img:hover{
     transform: scale(1.3);
   }
+.gallery-container img:hover{
+    transform: scale(1.3);
+  }  
