@@ -63,5 +63,6 @@ footer{
             display: flex;
             position: relative;
             text-align: justify;
+            align-items: center;
         }
     }
