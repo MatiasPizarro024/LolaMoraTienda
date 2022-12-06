@@ -192,4 +192,5 @@ body{
     align-items: center;
   }
   .titpie{
+    display: flex;
   }
