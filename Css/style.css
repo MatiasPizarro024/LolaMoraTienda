@@ -117,4 +117,5 @@ nav ul li ul::before{
     left: 20px;
 }
 nav ul li ul li a {
+    display: block;
 }
