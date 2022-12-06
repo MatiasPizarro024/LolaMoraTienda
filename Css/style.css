@@ -172,4 +172,5 @@ nav ul li ul li a:hover {
     } 
 } 
 body{
+    display: grid;
   }
