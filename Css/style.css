@@ -60,4 +60,5 @@ nav>ul>li:first-child>a {
 }
 nav>ul>li:first-child:hover>a {
     background-image: url(../Imagenes/263115-removebg-preview.png);
+    background-size: 24px;
 }
