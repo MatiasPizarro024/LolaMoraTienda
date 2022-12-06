@@ -114,4 +114,5 @@ nav ul li ul::before{
     border-bottom: 12px solid white;
     position: absolute;
     top: -12px;
+    left: 20px;
 }
