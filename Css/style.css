@@ -64,3 +64,5 @@ nav>ul>li:first-child:hover>a {
     background-repeat: no-repeat;
     background-position: center center;
 }
+nav>ul>li>a {
+}
