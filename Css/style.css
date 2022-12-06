@@ -139,3 +139,8 @@ nav ul li ul li a:hover {
     margin: 0px;
     padding: 0px;
 }
+.gallery-container h3{
+    font-size: 26px;
+    line-height: 55px;
+    margin: 200px 10px 0px 5px;
+  }
