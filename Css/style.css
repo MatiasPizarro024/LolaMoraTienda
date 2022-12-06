@@ -192,9 +192,9 @@ body{
     align-items: center;
   }
   .titpie{
-    display: flex;
-    position: relative;
-    align-items: center;
-    border: 1px;
-    border-color: black;
-  }
+   display: flex;
+   position: relative;
+   align-items: center;
+   border: 1px;
+   border-color: black;
+}
