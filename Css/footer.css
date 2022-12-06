@@ -64,5 +64,6 @@ footer{
             position: relative;
             text-align: justify;
             align-items: center;
+            margin-right: 10px;
         }
     }
