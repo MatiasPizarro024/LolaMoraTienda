@@ -176,4 +176,5 @@ body{
     min-height: 100vh;
     background-color: #f5c5ff;
     background-image:  radial-gradient(#c964ef 0.65px, transparent 0.65px), radial-gradient(#c964ef 0.65px, #f5c5ff 0.65px);
+    background-size: 26px 26px;
   }
