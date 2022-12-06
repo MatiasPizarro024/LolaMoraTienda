@@ -144,3 +144,6 @@ nav ul li ul li a:hover {
     line-height: 55px;
     margin: 200px 10px 0px 5px;
   }
+.gallery-container img:hover{
+    transform: scale(1.3);
+  }
