@@ -51,3 +51,5 @@ nav ul li {
     list-style: none;
     position: relative;
 }
+nav>ul>li:first-child>a {
+}
