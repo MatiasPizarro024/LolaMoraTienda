@@ -2,6 +2,7 @@ h1{
 
     margin-left: 380px;
     margin-top: 320px;
+    display: flex;
   }
   footer{
     height: 150px;
