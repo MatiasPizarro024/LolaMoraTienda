@@ -37,6 +37,7 @@ footer{
     }
     
     .foter .row ul li{
+    display:inline-block;
     }
     
     
