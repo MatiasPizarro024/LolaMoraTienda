@@ -60,5 +60,6 @@ footer{
         }
         .foter .row{
             width: auto;
+            display: flex;
         }
     }
