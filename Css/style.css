@@ -154,4 +154,7 @@ nav ul li ul li a:hover {
     .gallery-container{
       padding: 0px 10px;
     }
+    .gallery-container h3{
+      text-align: center;
+    }
 } 
