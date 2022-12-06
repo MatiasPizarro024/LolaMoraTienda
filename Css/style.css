@@ -174,4 +174,5 @@ nav ul li ul li a:hover {
 body{
     display: grid;
     min-height: 100vh;
+    background-color: #f5c5ff;
   }
