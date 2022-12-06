@@ -25,4 +25,5 @@ header {
     height: 70px;
 }
 .search input {
+    width: 300px;
 }
