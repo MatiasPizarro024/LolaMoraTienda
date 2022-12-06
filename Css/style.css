@@ -189,4 +189,5 @@ body{
     border: 10px;
     border-color: black;
     display: flex;
+    align-items: center;
   }
