@@ -49,5 +49,6 @@ footer{
     @media (max-width: 720px){
         footer{
             height: 140px;
+            width: 100%;
         }
     }
