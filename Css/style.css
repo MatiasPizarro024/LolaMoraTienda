@@ -59,4 +59,5 @@ nav>ul>li:first-child>a {
     padding: 20px 40px;
 }
 nav>ul>li:first-child:hover>a {
+    background-image: url(../Imagenes/263115-removebg-preview.png);
 }
