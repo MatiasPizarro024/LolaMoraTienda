@@ -52,4 +52,5 @@ nav ul li {
     position: relative;
 }
 nav>ul>li:first-child>a {
+    background-image: url(../Imagenes/263115-removebg-preview.png);
 }
