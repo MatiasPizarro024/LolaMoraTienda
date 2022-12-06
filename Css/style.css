@@ -88,4 +88,5 @@ nav>ul>li>a:hover {
 nav ul li ul{
     width: 140px;
     display: flex;
+    flex-direction: column;
 }
