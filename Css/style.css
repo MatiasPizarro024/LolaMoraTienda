@@ -161,4 +161,7 @@ nav ul li ul li a:hover {
       width: 100%;
       align-items: center;
     }
+    .gallery-box .columna{
+      margin-left: 0px;
+    }
 } 
