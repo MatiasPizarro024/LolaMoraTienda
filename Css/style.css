@@ -196,4 +196,5 @@ body{
     position: relative;
     align-items: center;
     border: 1px;
+    border-color: black;
   }
