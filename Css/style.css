@@ -181,4 +181,5 @@ body{
   }
   .pie{
     background: rgb(124, 57, 138);
+    position: absolute;
   }
