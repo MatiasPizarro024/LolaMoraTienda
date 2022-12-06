@@ -89,4 +89,5 @@ nav ul li ul{
     width: 140px;
     display: flex;
     flex-direction: column;
+    background: white;
 }
