@@ -106,4 +106,5 @@ nav ul li:hover ul{
     top: 70;
 }
 nav ul li ul::before{
+    content: " ";
 }
