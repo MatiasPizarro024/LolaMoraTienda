@@ -131,4 +131,5 @@ nav ul li ul li a:hover {
     color: white;
     transform: scale(1.1);
     padding-left: 20px;
+    font-size: 14px;
 }
