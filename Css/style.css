@@ -65,4 +65,5 @@ nav>ul>li:first-child:hover>a {
     background-position: center center;
 }
 nav>ul>li>a {
+    width: 100%;
 }
